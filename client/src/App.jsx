@@ -13,6 +13,7 @@ import UpdatePage from "./routes/updatePage/UpdatePage";
 import { listPageLoader, profilePageLoader, singlePageLoader } from "./lib/loaders";
 function App() {
 
+  //you are my bro
   const router = createBrowserRouter([
     {
       path: "/",
